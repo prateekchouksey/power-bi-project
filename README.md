@@ -1,4 +1,4 @@
-project : Market Analysis for EV Expansion in India
+# -Market Analysis for EV Expansion in India
 •	Analysed market trends, customer preferences, and competitive landscape for EV/Hybrid market entry.
 •	Modeled and consolidated data from various sources using Power BI and Excel.
 •	Designed dashboards showcasing customer demographics, competitor pricing, and sale projections.
